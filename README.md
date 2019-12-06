@@ -11,9 +11,9 @@ Each language pack will focus on different species and topics, and will face uni
 
 We are currently working on 3 language packs:
 
-* [HiFish](https://github.com/SOLV-Code/HiFish) : Hawaiian
-* [GaelFish](https://github.com/SOLV-Code/GaelFish) Gàidhlig (Scottish Gaelic)
-* [FinnFish](https://github.com/SOLV-Code/FinnFish) Suomi (Finnish)
+* [HiFish](https://github.com/SOLV-Code/HiFish): Hawaiian
+* [GaelFish](https://github.com/SOLV-Code/GaelFish):Gàidhlig (Scottish Gaelic)
+* [FinnFish](https://github.com/SOLV-Code/FinnFish): Suomi (Finnish)
 
 ## How to Contribute
 
